@@ -1,8 +1,8 @@
-# HyperionDev Marketplace Reviewer Take-Home Test
+# HyperionDev Mentor Take-Home Test
 
 ## Welcome
 
-We’re excited to get to know you and your skills better. The next step of the interview process with HyperionDev’s Marketplace Reviewer Network is to complete a
+We’re excited to get to know you and your skills better. The next step of the interview process with HyperionDev is to complete a
 take-home exercise. Please complete this exercise within 2 days of receiving it and make sure your responses are all sent through to the talent@hyperiondev.com
 from which you received this assessment unless otherwise specified. 
 
@@ -21,10 +21,10 @@ We have built an online course platform that allows human code review to be scal
  the cost of access to tech careers around the world to shrink the tech skills gap and inequality in the tech space. Please ensure you have reviewed our 
  about us page as well. 
 
-## Being a Reviewer
+## Being a Mentor
 
-In this role, you will be joining our team of specialist reviewers. Our reviewers are elite, world-leading programming experts with a skill set that is at 
-the intersection of technical coding skills. Reviewers work with leading tech partners from around the world in fields as diverse as technical education, 
+In this role, you will be joining our team of specialist mentors. Our mentors are elite, world-leading programming experts with a skill set that is at 
+the intersection of technical coding skills. Mentors work with leading tech partners from around the world in fields as diverse as technical education, 
 developer assessment, and tech team peer reviews.
 
 Pursuing reviewing as an opportunity provides a fulfilling way of specializing yourself further while garnering international work experience. It promises a 
@@ -34,7 +34,7 @@ Please complete the tasks below to help us understand how your skills may best f
 ## Instructions
 
 - Please attempt every section.
-- Please select exactly one option for each of Section A and Section C.
+- Please select exactly two options for each of Section A and Section C.
 - The languages for the options you pick or use for Section A and C should be different.
 - Please submit a link to a single publicly accessible GitHub repository that contains your solutions with a folder for each section.
 - Please validate user input and handle all errors gracefully.
@@ -289,12 +289,12 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 
 ### Instructions
 
-- We suggest that you implement your solution in either Python, Java, Ruby or TypeScript.
+- We suggest that you implement your two solutions in two different languages - either Python, TypeScript, Ruby or Java.
 - You're more than welcome to use any programming language and paradigm that you fancy as long as your solution is idiomatic.
 - You are required to include a test suite for your solution.
 - Please include all instructions and scripts necessary to build, test and run your solution on Linux, macOS and Windows operating systems.
-- Please include a Markdown report that specifies and justifies the _worst-case **space** complexity_ of your solution.
-- Please attempt any one option of the alternatives available from below:
+- **Please include a Markdown report that specifies and justifies the _worst-case space complexity_ of your solution.**
+- Please attempt any two options of the alternatives available from below:
 
 ### Option 1: Say the Number
 
@@ -311,3 +311,9 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 ### Option 4: International Standard Book Numbers
 
 - https://edabit.com/challenge/C5mooK3wfdhoooeLw
+
+## Section D: 
+
+As a mentor, you are invested in every student’s progress, as well as responsible for ensuring high task completion and graduation rates for our bootcamps.
+As most of our students are completely online, mentors and students don’t meet in person. How would you look out for potential ‘dropout factors’ in a student,
+and what would you do to ensure they don’t drop out?
