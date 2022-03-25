@@ -1,4 +1,4 @@
-# HyperionDev Coding Mentor Take-Home Test
+# HyperionDev Senior Code Reviewer Take-Home Test
 
 ## Welcome
 
@@ -21,10 +21,10 @@ We have built an online course platform that allows human code review to be scal
  the cost of access to tech careers around the world to shrink the tech skills gap and inequality in the tech space. Please ensure you have reviewed our 
  about us page as well. 
 
-## Being a Mentor
+## Being a Senior Code Reviewer
 
 In this role, you will be joining our team of specialist mentors. Our mentors are elite, world-leading programming experts with a skill set that is at 
-the intersection of technical coding skills. Mentors work with leading tech partners from around the world in fields as diverse as technical education, 
+the intersection of technical coding skills. Reviewers work with leading tech partners from around the world in fields as diverse as technical education, 
 developer assessment, and tech team peer reviews.
 
 Pursuing reviewing as an opportunity provides a fulfilling way of specializing yourself further while garnering international work experience. It promises a 
@@ -285,35 +285,13 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 - You may have completed it in the past or it may be freshly completed for this test.
 - The project could be in any domain using any technology stack.
 
-## Section C: Code Challenge
+## Section C: TDD Code Challenge
 
-### Instructions
-
-- We suggest that you implement your two solutions in two different languages - either Python, TypeScript, Ruby or Java.
-- You're more than welcome to use any programming language and paradigm that you fancy as long as your solution is idiomatic.
-- You are required to include a test suite for your solution.
-- Please include all instructions and scripts necessary to build, test and run your solution on Linux, macOS and Windows operating systems.
-- **Please include a Markdown report that specifies and justifies the _worst-case space complexity_ of your solution.**
-- Please attempt any two options of the alternatives available from below:
-
-### Option 1: Say the Number
-
-- https://edabit.com/challenge/4E9gTrRWErpTCA2FQ
-
-### Option 2: Road Navigation
-
-- https://edabit.com/challenge/qQu4kxTEHapogmCgE
-
-### Option 3: Resistor Networks
-
-- https://edabit.com/challenge/eWXL8Jz78hP5tW644
-
-### Option 4: International Standard Book Numbers
-
-- https://edabit.com/challenge/C5mooK3wfdhoooeLw
-
-## Section D: 
-
-As a mentor, you are invested in every student’s progress, as well as responsible for ensuring high task completion and graduation rates for our bootcamps.
-As most of our students are completely online, mentors and students don’t meet in person. How would you look out for potential ‘dropout factors’ in a student,
-and what would you do to ensure they don’t drop out?
+- Please create a 1-hour recording using Zoom with your camera turned on and your screen shared.
+- During that 1 hour session, you are required to test-drive code the challenge here https://gist.github.com/CoGrammarCodeReview/dd182c290f89c3caff5dda62bc0a26fd
+- You are required to use the red-green-refactor cycle as described here https://www.codecademy.com/article/tdd-red-green-refactor
+- Please ensure that you apply test-triangulation as described here https://www.tddfellow.com/blog/2016/08/31/getting-stuck-while-doing-tdd-part-3-triangulation-to-the-rescue/
+- Please talk us through your developer process to explain what you are doing
+- Remember to include commentary on the *space complexity* of your solutions
+- You may submit by uploading your recording as unlisted to YouTube and linking it to the GitHub repository you submit.
+- You may use any language of your choice
