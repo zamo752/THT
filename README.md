@@ -292,6 +292,7 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 - You are required to use the red-green-refactor cycle as described here https://www.codecademy.com/article/tdd-red-green-refactor
 - Please ensure that you apply test-triangulation as described here https://www.tddfellow.com/blog/2016/08/31/getting-stuck-while-doing-tdd-part-3-triangulation-to-the-rescue/
 - Please talk us through your developer process to explain what you are doing
+- The focus is not on completing the challenge but showcasing your developer process as you employ test-driven development
 - Remember to include commentary on the *space complexity* of your solutions
 - You may submit by uploading your recording as unlisted to YouTube and linking it to the GitHub repository you submit.
 - You may use any language of your choice
