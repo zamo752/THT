@@ -312,7 +312,7 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 
 - https://edabit.com/challenge/C5mooK3wfdhoooeLw
 
-## Section D: 
+## Section D: Student Success
 
 As a mentor, you are invested in every student’s progress, as well as responsible for ensuring high task completion and graduation rates for our bootcamps.
 As most of our students are completely online, mentors and students don’t meet in person. How would you look out for potential ‘dropout factors’ in a student,
