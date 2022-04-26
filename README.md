@@ -21,7 +21,7 @@ We have built an online course platform that allows human code review to be scal
  the cost of access to tech careers around the world to shrink the tech skills gap and inequality in the tech space. Please ensure you have reviewed our 
  about us page as well. 
 
-## Being a Senior Code Reviewer
+## Being a Code Reviewer
 
 In this role, you will be joining our team of specialist mentors. Our mentors are elite, world-leading programming experts with a skill set that is at 
 the intersection of technical coding skills. Reviewers work with leading tech partners from around the world in fields as diverse as technical education, 
