@@ -289,7 +289,7 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 
 - We suggest that you implement your solution in either Python, Java, Ruby or TypeScript.
 - You're more than welcome to use any programming language and paradigm that you fancy as long as your solution is idiomatic.
-- You are required to include a test suite for your solution.
+- You are required to include a comprehensive test suite for your solution. Be sure to include edge cases.
 - Please include all instructions and scripts necessary to build, test and run your solution on Linux, macOS and Windows operating systems.
 - Please include a Markdown report that specifies and justifies the _worst-case **space** complexity_ of your solution.
 - Please attempt the following code challenge: https://edabit.com/challenge/5k25ZqnuFgtgHNAqh
