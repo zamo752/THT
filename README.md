@@ -288,7 +288,8 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 ## Section C: TDD Code Challenge
 
 - Please create a 40-minute recording using Zoom with your camera turned on and your screen shared.
-- During that 1 hour session, you are required to test-drive code the challenge here https://edabit.com/challenge/AEkPyTFK26yQn8ApW
+- We recommend that you read and understand the problem before-hand.
+- During that 40-minute session, you are required to test-drive code the challenge here https://edabit.com/challenge/5k25ZqnuFgtgHNAqh
 - You are allowed to research as much as you need, but not to copy code.
 - You are required to use the red-green-refactor cycle as described here https://www.codecademy.com/article/tdd-red-green-refactor
 - Please ensure that you apply test-triangulation as described here https://www.tddfellow.com/blog/2016/08/31/getting-stuck-while-doing-tdd-part-3-triangulation-to-the-rescue/
