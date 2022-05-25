@@ -287,7 +287,7 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 
 ## Section C: TDD Code Challenge
 
-- Please create a 1-hour recording using Zoom with your camera turned on and your screen shared.
+- Please create a 40-minute recording using Zoom with your camera turned on and your screen shared.
 - During that 1 hour session, you are required to test-drive code the challenge here https://edabit.com/challenge/AEkPyTFK26yQn8ApW
 - You are allowed to research as much as you need, but not to copy code.
 - You are required to use the red-green-refactor cycle as described here https://www.codecademy.com/article/tdd-red-green-refactor
