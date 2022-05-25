@@ -285,16 +285,11 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 - You may have completed it in the past or it may be freshly completed for this test.
 - The project could be in any domain using any technology stack.
 
-## Section C: TDD Code Challenge
+## Section C: Code Challenge
 
-- Please create a 40-minute recording using Zoom with your camera turned on and your screen shared.
-- We recommend that you read and understand the problem before-hand.
-- During that 40-minute session, you are required to test-drive code the challenge here https://edabit.com/challenge/5k25ZqnuFgtgHNAqh
-- You are allowed to research as much as you need, but not to copy code.
-- You are required to use the red-green-refactor cycle as described here https://www.codecademy.com/article/tdd-red-green-refactor
-- Please ensure that you apply test-triangulation as described here https://www.tddfellow.com/blog/2016/08/31/getting-stuck-while-doing-tdd-part-3-triangulation-to-the-rescue/
-- Please talk us through your developer process to explain what you are doing
-- The focus is not on completing the challenge but showcasing your developer process as you employ test-driven development
-- Remember to include commentary on the **space complexity** of your solutions in your GitHub repository
-- You may submit by uploading your recording as unlisted to YouTube and linking it to the GitHub repository you submit.
-- You may use any language of your choice
+- We suggest that you implement your solution in either Python, Java, Ruby or TypeScript.
+- You're more than welcome to use any programming language and paradigm that you fancy as long as your solution is idiomatic.
+- You are required to include a test suite for your solution.
+- Please include all instructions and scripts necessary to build, test and run your solution on Linux, macOS and Windows operating systems.
+- Please include a Markdown report that specifies and justifies the _worst-case **space** complexity_ of your solution.
+- Please attempt the following code challenge: https://edabit.com/challenge/5k25ZqnuFgtgHNAqh
