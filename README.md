@@ -318,69 +318,22 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 ### Option 1: Student progress
 
 As a mentor, you are invested in every student’s progress, as well as responsible for ensuring high task completion and graduation rates for our bootcamps.
-As most of our students are completely online, mentors and students don’t meet in person. You have 20 students of which 5 students are lagging behind on the course material and 15 are on track. Please lay out an intervention plan to get the 5 lagging students back on track whilst still ensuring that the other 15 students maintain a positive progression rate.
+
+In the following hypothetical situation, you have 20 part-time students on a 6 month bootcamp. Of this group, 5 students are 2 weeks behind on their expected progress in the bootcamp, 10 are at risk of falling behind (if they do not complete their next task in the next 2 days, they will be behind) and 5 are ahead of expected progress. Please lay out an intervention plan to get the 5 lagging students back on track whilst ensuring that the 10 at risk students do not fall behind and the 5 students that are ahead are not negatively impacted.
 
 ### Option 2: Java Marking task
 
-Review and give feedback on a hypothetical student’s code.
+In this task we will simulate a typical interaction that you might have with a student during a mentor support call.
 
-In this task we will simulate a typical interaction that you might have with a student. You will be given a question that is asked by a hypothetical student as well as the student’s submitted code. You will be required to answer the question and review the quality, structure and correctness of their code.
+The student asks you the following question:
 
-Let’s say a student asks you the following question:
+"I am trying to do Task 6 and the JOptionPane.ShowDialog() does not work. For some reason it does not store the input to the string variable it is assigned to, so my do-while loop ends up in an infinite loop. Can you please help me?"
 
-Hi there,
-
-I am trying to do Task 6 and the JOptionPane.ShowDialog() does not work. For some reason it does not store the input to the string variable it is assigned to, so my do-while loop ends up in an infinite loop. Can you please help me?
-
-For context the task the student is working on is as follows:
-
-Create a new file called do_whilePassword.java. 
-Imagine that the password to sign in to some computer is "John". Write a program that prompts the user to enter a password to login to this imaginary computer. 
-If the user enters the correct password then notify the user and terminate the program. 
-Should the user get the password incorrect three times in a row, then inform the user of the current password and allow the user to set a new password. 
-Check the new password so that it satisfies these modified java identifier rules:
-The password may have any number of characters between 1 and 20, inclusive. 
-The password may start with an underscore "_" or any letter of the alphabet. 
-The password may be any combination of upper and lower case letters. 
-The password consists only of numbers, English alphabet letters, and the underscore character.
-Should a proposed password not match these rules then inform the user that they have entered an invalid password and prompt the user to try again until an acceptable password is found. 
-Here is an example run on the assumption that the current password is "John":
-
-prompt: Enter password:
-input: peter
-prompt: Incorrect password. Please enter password:
-input: luke
-prompt: Incorrect password. Please enter password:
-input: jane
-prompt: Password incorrect on three attempts.
-prompt: The password was John. Please set a new user password:
-input: john123
-prompt:password changed.
-
-Compile, save and run your file.
-
-The student’s code can be found below. Answer the student's question and review the student's code, leaving specific comments that discuss the quality, structure and correctness of their code. Remember that the goal is to assist the student without giving them the complete solution.
-
-``` java
-import java.util.*;
-import javax.swing.*;
-
-public class do_whilePassword
-{
-  public static void main ( String [] args )
-  {
-    String choice = "";
-    do
-    {
-      //System.out.println( "Enter today's number from the menu:" );
-      choice = JOptionPane.showInputDialog("Please enter in a password");
-        
-    }while(choice != "John" );
-  }
-}
-```
+Please describe the process that you would follow to help the student.
 
 ### Option 3: Student feedback
 
-Handling student concerns is an important part of the mentorship role. You have provided feedback for a student in a review. After reading the feedback, the student responds in an irate manner claiming that you have provided feedback that does not provide any value, is generic and seems like you copy-pasted feedback just to complete the review. Please explain how you would handle this specific scenario.
+Handling student concerns is an important part of the mentorship role. 
+
+In the following scenario, you have provided feedback to a student in a code review for one of their submissions. After reading the feedback, the student responds in an irate manner claiming that you have provided feedback that does not provide any value, is generic and seems like you copy-pasted feedback just to complete the review. You did in fact provide non-generic, personalised and actionable feedback. on top of this, the student has also made a complaint on social media about the poor quality of your review. Please explain how would handle this situation.
 
