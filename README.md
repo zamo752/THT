@@ -289,7 +289,7 @@ print(caesar_cipher('GUR DHVPX OEBJA QBT WHZCRQ BIRE GUR YNML SBK.', 39));
 
 ### Instructions
 
-- We suggest that you implement your two solutions in two different languages - either Python, TypeScript, Ruby or Java.
+- We suggest that you implement one solution in either Python, TypeScript, Ruby or Java.
 - You're more than welcome to use any programming language and paradigm that you fancy as long as your solution is idiomatic.
 - You are required to include a test suite for your solution.
 - Please include all instructions and scripts necessary to build, test and run your solution on Linux, macOS and Windows operating systems.
